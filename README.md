@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @stratosvomvos
-- 👀 I’m interested in coding html<js<css<reactjs and more
+- 👀 I code apps in Python and JavaScript
+- owner of ChezGR
+- chez.gr :D
 
 
 <!---
