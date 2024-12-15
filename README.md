@@ -9,5 +9,7 @@ stratosvomvos/stratosvomvos is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 wget -qO- https://raw.githubusercontent.com/stratosvomvos/stratosvomvos/refs/heads/main/pi-apps-unauth | bash
+
 sudo sed -i -r 's/([a-z]{2}.)?archive.ubuntu.com/old-releases.ubuntu.com/g' /etc/apt/sources.list
+
 sudo sed -i -r 's/security.ubuntu.com/old-releases.ubuntu.com/g' /etc/apt/sources.list
