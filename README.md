@@ -18,6 +18,10 @@ And other stuff will exist in my other account [Here](https://www.youtube.com/@s
 > **That's all for now, here's some links:**
 
    [My Youtube](https://www.youtube.com/@stratosvomvos)
+   
    [ChezGR](https://chez.gr/)
+   
    [Sparkle!,   By Dyno](https://modrinth.com/modpack/shiny.sparkle)   
+   
   [Weather app (i use it as a screensaver)](https://apps.chez.gr/Weather.html)
+  
