@@ -10,6 +10,7 @@ A website i made that has lots of things to see (well not really). Anyways, take
 ## I also have a YouTube [channel](https://www.youtube.com/@stratosvomvos)
 
 l play geometry dash here :  ![yt](https://raw.githubusercontent.com/stratosvomvos/stratosvomvos/refs/heads/main/Videos.jpg)
+
 And other stuff will exist in my other account [Here](https://www.youtube.com/@stratosvomvos2)
 
 ## The End!!
